@@ -1,0 +1,4 @@
+newrelic.ini
+*.log
+*.pyc
+
