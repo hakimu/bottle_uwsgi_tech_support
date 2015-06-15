@@ -1,5 +1,4 @@
 import bottle
-import sys
 app = application = bottle.Bottle()
 
 @app.route('/hello')
